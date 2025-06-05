@@ -153,5 +153,5 @@ java cliente.ClienteBusca
 
 <h2>📘 Histórico de Commits</h2>
 <p>O histórico de desenvolvimento está disponível no repositório:<br>
-🔗 <a href="https://github.com/seuusuario/arxiv-distributed-search">github.com/seuusuario/arxiv-distributed-search</a>
+🔗 <a href="https://github.com/alineop120/project-distributed-search/branches">github.com/alineop120/project-distributed-search/branches</a>
 </p>
