@@ -42,8 +42,8 @@ project-distributed-search/
 <h2>🚀 Iniciando o Projeto</h2>
 
 <h3>1. Clone o repositório</h3>
-<pre><code>git clone https://github.com/seuusuario/arxiv-distributed-search.git
-cd arxiv-distributed-search</code></pre>
+<pre><code>git clone https://github.com/seuusuario/project-distributed-search.git
+cd project-distributed-search</code></pre>
 
 <h3>2. Como executar</h3>
 
