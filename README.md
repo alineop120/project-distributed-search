@@ -8,11 +8,9 @@
 </p>
 
 <h2>🧱 Arquitetura do Sistema</h2>
-<pre>
-Cliente <---> Servidor A <---> Servidor B
-                        \
-                         \--> Servidor C
-</pre>
+<p align="center">
+    <img src="images/arquitetura.png" alt="Arquitetura do Sistema" width="660">
+</p>
 
 <ul>
   <li><strong>Cliente:</strong> Envia a substring de busca ao Servidor A e recebe o resultado combinado.</li>
