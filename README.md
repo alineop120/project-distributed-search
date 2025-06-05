@@ -144,10 +144,10 @@ java cliente.ClienteBusca
     </tr>
   </thead>
   <tbody>
-    <tr><td>Aluno 1</td><td>123456</td><td>Cliente e Servidor A</td></tr>
-    <tr><td>Aluno 2</td><td>654321</td><td>Servidor B e algoritmo KMP</td></tr>
-    <tr><td>Aluno 3</td><td>789456</td><td>Servidor C e manipulação JSON</td></tr>
-    <tr><td>Aluno 4</td><td>112233</td><td>Documentação e testes</td></tr>
+    <tr><td>Mateus Tirulli Rozeti</td><td>UC</td><td>Cliente e Servidor A</td></tr>
+    <tr><td>Ana Beatriz Cavalcante Amorim </td><td>UC</td><td>Servidor B e algoritmo KMP</td></tr>
+    <tr><td>Aline Oliveira de Pinho</td><td>UC23101158</td><td>Servidor C e manipulação JSON</td></tr>
+    <tr><td>Cristiane Tamily de Menezes Carvalho</td><td>UC</td><td>Documentação e testes</td></tr>
   </tbody>
 </table>
 
