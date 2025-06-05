@@ -21,6 +21,11 @@
 <h2>📁 Estrutura do Projeto</h2>
 <pre>
 project-distributed-search/
+├── dados/
+│   ├── artigos_b.json
+│   └── artigos_c.json
+├── images/
+|   └── arquitetura.png
 ├── src/
 │   └── progconc_dist/
 │       ├── cliente/
@@ -31,9 +36,9 @@ project-distributed-search/
 │       │   └── ServidorB.java
 │       └── servidorC/
 │           └── ServidorC.java
-├── dados/
-│   ├── artigos_b.json
-│   └── artigos_c.json
+├── utils/
+│   └── Artigo.java
+│   └── JsonUtils.java
 ├── CONTRIBUTING.md
 ├── README.md
 └── pom.xml
