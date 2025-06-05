@@ -25,20 +25,21 @@ project-distributed-search/
 │   ├── dados_servidor_b.json
 │   └── dados_servidor_c.json
 ├── images/
-|   └── arquitetura.png
+│   └── arquitetura.png
 ├── src/
 │   └── progconc_dist/
-│       ├── cliente/
-│       │   └── ClienteBusca.java
-│       ├── servidorA/
-│       │   └── ServidorA.java
-│       ├── servidorB/
-│       │   └── ServidorB.java
-│       └── servidorC/
-│           └── ServidorC.java
-├── utils/
-│   └── Artigo.java
-│   └── JsonUtils.java
+│       ├── nodes/
+│       │   ├── cliente/
+│       │   │   └── ClienteBusca.java
+│       │   ├── servidorA/
+│       │   │   └── ServidorA.java
+│       │   ├── servidorB/
+│       │   │   └── ServidorB.java
+│       │   └── servidorC/
+│       │       └── ServidorC.java
+│       └── utils/
+│           └── Artigo.java
+│           └── JsonUtils.java
 ├── CONTRIBUTING.md
 ├── README.md
 └── pom.xml
