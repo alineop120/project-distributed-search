@@ -1,4 +1,15 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iws
+*.ipr
+!/.idea/misc.xml
+!/.idea/modules.xml
+!/.idea/vcs.xml
+*.iml
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
