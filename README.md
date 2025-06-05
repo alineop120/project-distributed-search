@@ -22,8 +22,8 @@
 <pre>
 project-distributed-search/
 ├── dados/
-│   ├── artigos_b.json
-│   └── artigos_c.json
+│   ├── dados_servidor_b.json
+│   └── dados_servidor_c.json
 ├── images/
 |   └── arquitetura.png
 ├── src/
